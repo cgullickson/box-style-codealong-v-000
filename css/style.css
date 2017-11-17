@@ -254,12 +254,13 @@ section {
   color: red;
 }
 
-/*////////// FOOTER //////////*/
-
 #details {
   border-top: 1px solid white;
-  
+
 }
+
+/*////////// FOOTER //////////*/
+
 
 footer {
   text-align: center;
